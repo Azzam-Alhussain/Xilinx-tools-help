@@ -9,7 +9,7 @@ This repository contains guides, tutorials, problem fixes and workarounds about 
 - [Tool specific problems](#tool-specific-problems)
 	- [Xilinx Vivado](#xilinx-vivado)
 	- [Xilinx Vivado HLS (High Level Synthesis)](#xilinx-vivado-hls-high-level-synthesis)
-	- [Xilinx SKD](#xilinx-skd)
+	- [Xilinx SDK](#xilinx-sdk)
 
 # Tutorials / Guides
 - [Read data from SD Card using Xilinx SDK](Tutorials-Guides/Read-data-from-SD-Card-using-Xilinx-SDK)
@@ -38,7 +38,7 @@ Same problems but categorized by tool.
 - [Vivado HLS IP not writing to DDR memory](Problem-Fixes-Workarounds/Vivado-HLS-IP-not-writing-to-DDR-memory)
 - [Vivado HLS IP writing wrong or not all data to DDR memory]tree./Problem-Fixes-Workarounds/Vivado-HLS-IP-writing-wrong-or-not-all-data-to-DDR-memory)
 
-## Xilinx SKD
+## Xilinx SDK
 - [Xilinx SDK Baremetal application hangs](Problem-Fixes-Workarounds/Xilinx-SDK-Baremetal-application-hangs)
 - [Xilinx SDK Baremetal application not reading-writing to stdin-stdout and-or UART](Problem-Fixes-Workarounds/Xilinx-SDK-Baremetal-application-not-reading-writing-to-stdin-stdout-and-or-UART)
 - [Xilinx SDK problems using ff.h library](Problem-Fixes-Workarounds/Xilinx-SDK-problems-using-ff.h-library)
