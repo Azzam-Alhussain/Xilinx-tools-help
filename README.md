@@ -31,7 +31,7 @@ This repository contains guides, tutorials, problem fixes and workarounds about 
 Same problems but categorized by tool.
 
 ## Xilinx Vivado
-- [Vivado exceeds system memory when running Synthesis & Implementation]tree./Problem-Fixes-Workarounds/Vivado-exceeds-system-memory-when-running-Synthesis-and-Implementation)
+- [Vivado exceeds system memory when running Synthesis & Implementation](Problem-Fixes-Workarounds/Vivado-exceeds-system-memory-when-running-Synthesis-and-Implementation)
 - [Vivado HLS IP not writing to DDR memory](Problem-Fixes-Workarounds/Vivado-HLS-IP-not-writing-to-DDR-memory)
 
 ## Xilinx Vivado HLS (High Level Synthesis)
