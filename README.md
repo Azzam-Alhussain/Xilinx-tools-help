@@ -20,9 +20,9 @@ This repository contains guides, tutorials, problem fixes and workarounds about 
 
 
 # Problem Fixes & Workarounds
-- [Vivado exceeds system memory when running Synthesis & Implementation]tree./Problem-Fixes-Workarounds/Vivado-exceeds-system-memory-when-running-Synthesis-and-Implementation)
+- [Vivado exceeds system memory when running Synthesis & Implementation](Problem-Fixes-Workarounds/Vivado-exceeds-system-memory-when-running-Synthesis-and-Implementation)
 - [Vivado HLS IP not writing to DDR memory](Problem-Fixes-Workarounds/Vivado-HLS-IP-not-writing-to-DDR-memory)
-- [Vivado HLS IP writing wrong or not all data to DDR memory]tree./Problem-Fixes-Workarounds/Vivado-HLS-IP-writing-wrong-or-not-all-data-to-DDR-memory)
+- [Vivado HLS IP writing wrong or not all data to DDR memory](Problem-Fixes-Workarounds/Vivado-HLS-IP-writing-wrong-or-not-all-data-to-DDR-memory)
 - [Xilinx SDK Baremetal application hangs](Problem-Fixes-Workarounds/Xilinx-SDK-Baremetal-application-hangs)
 - [Xilinx SDK Baremetal application not reading-writing to stdin-stdout and-or UART](Problem-Fixes-Workarounds/Xilinx-SDK-Baremetal-application-not-reading-writing-to-stdin-stdout-and-or-UART)
 - [Xilinx SDK problems using ff.h library](Problem-Fixes-Workarounds/Xilinx-SDK-problems-using-ff.h-library)
@@ -36,7 +36,7 @@ Same problems but categorized by tool.
 
 ## Xilinx Vivado HLS (High Level Synthesis)
 - [Vivado HLS IP not writing to DDR memory](Problem-Fixes-Workarounds/Vivado-HLS-IP-not-writing-to-DDR-memory)
-- [Vivado HLS IP writing wrong or not all data to DDR memory]tree./Problem-Fixes-Workarounds/Vivado-HLS-IP-writing-wrong-or-not-all-data-to-DDR-memory)
+- [Vivado HLS IP writing wrong or not all data to DDR memory](Problem-Fixes-Workarounds/Vivado-HLS-IP-writing-wrong-or-not-all-data-to-DDR-memory)
 
 ## Xilinx SDK
 - [Xilinx SDK Baremetal application hangs](Problem-Fixes-Workarounds/Xilinx-SDK-Baremetal-application-hangs)
